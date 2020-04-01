@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_task2",
+  "version": "1.0.0",
+  "description": "connecting to a database (mongodb)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Mojeed Kusimo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.7"
+  }
+}
