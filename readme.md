@@ -6,4 +6,4 @@
 
 ## The following is the image showing the database connection had been established
 
-#### ![db_cloud_server](db_created.PNG)
+#### ![db_cloud_server](db_view_created.PNG)
