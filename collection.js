@@ -1,7 +1,6 @@
 let interns = {
     name : 'Mojeed Kusimo',
-    email : 'mkusimo90@gmail.com',
-    phone_no: 08056732063
-}
+    email : 'mkusimo90@gmail.com'
+};
 
 module.exports = interns;

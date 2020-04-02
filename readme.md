@@ -7,3 +7,7 @@
 ## The following is the image showing the database connection had been established
 
 #### ![db_cloud_server](db_view_created.PNG)
+
+## The following is the image showing the collection has been created
+
+#### #### ![db_cloud_server](collection_created.PNG)
